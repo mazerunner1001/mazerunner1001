@@ -1,6 +1,6 @@
-- 👋 hey, I'm praneeth, 2nd year B.tech in computer science, IIT BHU.
-- 👀 I’m interested in software development, web and game development and artificial intelligence.
-- 🌱 I’m currently learning DB-based web development, HTML CSS javascript.
+- 👋 hey, I'm praneeth, 3rd year B.tech in computer science, IIT BHU.
+- 👀 I’m interested in fullstack web development, Internet of Things, and artificial intelligence.
+- 🌱 I’m currently learning DBMS, fullstack web-d.
 - 📫 spraneethchandra123@gmail.com.
 
 <!---
