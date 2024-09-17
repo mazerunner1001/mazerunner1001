@@ -1,6 +1,6 @@
-- 👋 hey, I'm praneeth, 3rd year B.tech in computer science, IIT BHU.
-- 👀 I’m interested in fullstack web development, Internet of Things, and artificial intelligence.
-- 🌱 I’m currently learning DBMS, Computer Networking.
+- 👋 Hey, I'm Praneeth, 3rd year B.tech in Computer Science, IIT BHU.
+- 👀 I’m interested in AI & ML, Internet of Things, and fullstack web development.
+- 🌱 I’m currently learning DBMS, Computer Networking, Genetic Algorithms, Deep Learning and Computer Graphics.
 - 📫 spraneethchandra123@gmail.com.
 
 <!---
